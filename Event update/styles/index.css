@@ -1,0 +1,49 @@
+.container{
+    margin-top: 10px;
+    border: 1px solid black;
+}
+.head {
+    margin-top: 10px;
+    text-align: center;
+}
+.seat {
+    margin-bottom: 20px;
+    text-align: center;
+}
+.innerContainer{
+    padding: 10px 10px 20px 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.contents{
+    text-align: right;
+}
+.content{
+    margin: 10px;
+}
+.content1{
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: end;
+    
+}
+.buttons{
+    margin-right: 30px;
+}
+
+.image{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+.inner-card-1{
+    
+    align-self: center;
+    
+}
